@@ -1,6 +1,8 @@
 UTF-8 FDF File Generator
 ========================
 
+(Lite version - uses iconv-lite so that there are no binary dependencies).
+
 PDF file form filler file (FDF) generator.
 
 Generates FDF files based on UTF-16 (you don't have to convert anything) so they support UTF-8 characters.

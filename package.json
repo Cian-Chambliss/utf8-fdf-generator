@@ -1,5 +1,11 @@
 {
   "author": "Gabriel Medina <rha7.com@gmail.com>",
+  "contributors" : [
+    {
+      "name" : "Cian Chambliss" ,
+      "email" : "cian@alphasoftware.com"
+    }
+  ],
   "name": "utf8-fdf-generator",
   "description": "Generates FDF (PDF form input) files with UTF-8 support.",
   "version": "0.0.3",
@@ -8,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rhaseven7h/utf8-fdf-generator.git"
+    "url": "https://github.com/Cian-Chambliss/utf8-fdf-generator.git"
   },
   "dependencies": {
     "iconv-lite": "*"
